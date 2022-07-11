@@ -1,0 +1,40 @@
+#main{
+    background-color: bisque;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+} 
+
+body{
+    background-color: bisque;
+
+}
+
+.historial{
+    display:flex;
+    flex-direction:column-reverse;
+    font-style:italic;
+}
+
+h1{
+    text-align: center;
+    font-size:40px;
+    font-style:oblique;
+}
+
+#frase{
+    margin:10px;
+    padding:10px;
+    display:flex;
+    justify-content:center;
+    font-style:oblique;
+}
+
+h2{
+    text-align:center;
+}
+
+.final{
+    display:flex;
+    justify-content:flex-end;
+}
